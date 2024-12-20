@@ -1,0 +1,8 @@
+{
+  "welcome": "Welcome",
+  "hello": "Hello",
+  "about": {
+    "title": "About Us",
+    "description": "We are a company..."
+  }
+}
